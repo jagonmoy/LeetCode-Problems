@@ -1,1 +1,1 @@
-Check the [Tutorial](https://leetcode.com/problems/binary-trees-with-factors/discuss/2402035/detailed-explanation-with-example-and-code-c-dp) 
+[Check the tutorial](https://leetcode.com/problems/binary-trees-with-factors/discuss/2402035/detailed-explanation-with-example-and-code-c-dp) 
