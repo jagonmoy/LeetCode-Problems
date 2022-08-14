@@ -1,0 +1,1 @@
+[Explanation](https://leetcode.com/problems/word-ladder-ii/discuss/2423748/c-bfs-back-tracking-explanation)
